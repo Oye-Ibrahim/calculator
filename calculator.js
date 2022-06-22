@@ -20,5 +20,5 @@ switch (OPERATOR) {
     break;
 
   default:
-    alert("Enter A Valid Number");
+    alert("Reload page and enter a valid number");
 }
