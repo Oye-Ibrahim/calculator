@@ -1,4 +1,3 @@
-console.log("Testing Script");
 const FIRST_NUMBER = parseInt(prompt("Enter First Number: "));
 const SECOND_NUMBER = parseInt(prompt("Enter Second Number: "));
 const OPERATOR = prompt("Choose Operator: + - * / ");
@@ -21,5 +20,5 @@ switch (OPERATOR) {
     break;
 
   default:
-    alert("Enter A Number");
+    alert("Enter A Valid Number");
 }
